@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source /media/whwong/DATA/nvidia/ov/pkg/isaac_sim-2021.1.1/setup_python_env.sh
+/media/whwong/DATA/nvidia/ov/pkg/isaac_sim-2021.1.1/python.sh $@

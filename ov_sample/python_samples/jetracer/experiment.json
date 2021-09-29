@@ -1,0 +1,18 @@
+
+{
+    "loaded_checkpoint" : "",
+    "eval" : false,
+    "reset_num_timesteps" : false,
+    "headless" : false,
+    "checkpoint_name" : "checkpoint_25k",
+    "tensorboard_dir" : "tensorboard",
+    "evaluation_dir" : "eval_log",
+    "save_freq" : 1000,
+    "eval_freq" : 1000,
+    "step_freq" : 1000,
+    "rand_freq" : 10,
+    "total_steps" : 25000,
+    "mirror_mode" : false,
+	"backwards_termination_mode" : 0,
+	"reward_mode" : 0
+}
