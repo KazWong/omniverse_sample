@@ -1,0 +1,2 @@
+cd ~/omniverse_python/test/omniverse_sample/load_env_robot
+isaac load_env_robot_edited.py --env_path /Library/Environments/test_env.usd --robo_path /Library/Robots/config_robot/robot_event_cam.usd
